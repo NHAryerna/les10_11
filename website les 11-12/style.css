@@ -1,0 +1,55 @@
+header {
+    height: 100px;
+    background-color: deepskyblue;
+}
+
+
+
+td {
+    width:175px;
+    height:175px;
+    text-align: center;
+    
+}
+img {
+    width:150px;
+    height:150px;
+}
+
+#A1 {
+    color:firebrick;
+    background-color:bisque;}
+#B1 {background-color:coral;}
+#C1 {
+    color:blue;
+    background-color:burlywood;}
+#D1 {background-color:cadetblue}
+#A2 {
+    color:mediumspringgreen;
+    background-color:chocolate}
+#B2 {background-color:cornflowerblue}
+#C2 {
+    color:cyan;
+    background-color:darkgoldenrod}
+#D2 {background-color:darkorange}
+#A3 {
+    color:crimson;
+    background-color:darkseagreen}
+#B3 {background-color:deeppink}
+#C3 {
+    color:aliceblue;
+    background-color:dodgerblue}
+#D3 {background-color:fuchsia}
+#A4 {
+    color:darkturquoise;
+    background-color:gainsboro}
+#B4 {background-color:goldenrod}
+#C4 {
+    color:red;
+    background-color:greenyellow}
+#D4 {background-color:hotpink}
+
+footer {
+    height: 100px;
+    background-color:orange
+}
